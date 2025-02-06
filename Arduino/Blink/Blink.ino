@@ -1,4 +1,4 @@
-#define LED 31 // LEDのピン
+#define LED 30 // LEDのピン
 
 void setup() {
   pinMode(LED, OUTPUT); // LEDピンの設定

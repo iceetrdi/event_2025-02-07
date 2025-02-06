@@ -1,4 +1,4 @@
-#define LED 31 // LEDのピン
+#define LED 30 // LEDのピン
 #define TILT_SENSOR 33 // 傾きセンサーのピン
 
 void setup() {
